@@ -26,4 +26,4 @@ Deployed application
 * Bootstrap3
 
 # Support and contact details
-* Run the web page once again incase of any errors, suggestions send an email: geerockface4@gmail.com Copyright (c) 2019 Geerocktricks
+* Run the web page once again incase of any errors, suggestions send an email: ryanmuuo91@gmail.com Copyright (c) 2019 Ryan
